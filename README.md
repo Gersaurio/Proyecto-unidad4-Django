@@ -5,6 +5,8 @@ Creación de una app web que visualiza proyectos y permite a los usuarios regist
 
 
 Instrucciones de Instalación: 
+
+
 1.-Crear un entorno virtual con el comando: python -m venv myenv
 
 
