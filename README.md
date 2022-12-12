@@ -5,11 +5,11 @@ Creación de una app web que visualiza proyectos y permite a los usuarios regist
 
 
 Instrucciones de Instalación: 
-1.-Crear un entorno virtual con el comando: python -m venv myenv
-2.-Activar el entorno virtual: .\myenv\Scripts\activate 
-3.-Instalar las dependencias que se encuentran en el archivo txt con: pip install -r requirements.txt
-4.-Ejecutar el comando: python manage.py runserver
-5.-Visitar la siguiente dirección: http://localhost:8000
+#1.-Crear un entorno virtual con el comando: python -m venv myenv
+##2.-Activar el entorno virtual: .\myenv\Scripts\activate 
+###3.-Instalar las dependencias que se encuentran en el archivo txt con: pip install -r requirements.txt
+####4.-Ejecutar el comando: python manage.py runserver
+#####5.-Visitar la siguiente dirección: http://localhost:8000
 
 
 Nota: Para la bd se usó SQLite 
