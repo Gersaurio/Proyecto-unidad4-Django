@@ -19,7 +19,8 @@ def register(request):
     else:
         form = UserRegisterForm()
     context = {'form' : form}
-    return render(request,"register.html", context)
+    return render(request,"register.html", context) 
+    
 
 
 
@@ -62,3 +63,4 @@ def eliminar(request, id):
 #         ips.save()
 #         return render(request, "index.html", context)
 
+#
